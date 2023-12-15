@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BTNCLIENTES" xml:space="preserve">
+    <value>Customers</value>
+  </data>
+  <data name="BTNCONFUGURACION" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="BTNEMPLEADOS" xml:space="preserve">
+    <value>Inventory</value>
+  </data>
+  <data name="BTNPRODUCTOS" xml:space="preserve">
+    <value>Employees</value>
+  </data>
+  <data name="BTNTEMA" xml:space="preserve">
+    <value>Apli Teme</value>
+  </data>
+  <data name="BTNVENTAS" xml:space="preserve">
+    <value>Jobs</value>
+  </data>
+  <data name="btn_Actualizar" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="btn_Eliminar" xml:space="preserve">
+    <value>Eliminate</value>
+  </data>
+  <data name="btn_EliminarEmpleado" xml:space="preserve">
+    <value>Process Employee</value>
+  </data>
+  <data name="btn_FiltrarAuto" xml:space="preserve">
+    <value>Filter Cars</value>
+  </data>
+  <data name="btn_FiltrarCliente" xml:space="preserve">
+    <value>Filter Clients</value>
+  </data>
+  <data name="btn_FiltrarEmpleado" xml:space="preserve">
+    <value>Filter Employees</value>
+  </data>
+  <data name="btn_FiltrarObjeto" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="btn_FinalizarTrabajo" xml:space="preserve">
+    <value>End job</value>
+  </data>
+  <data name="btn_GenerarTrabajo" xml:space="preserve">
+    <value>Generate work</value>
+  </data>
+  <data name="btn_IngresarAuto" xml:space="preserve">
+    <value>Enter Car</value>
+  </data>
+  <data name="btn_ingresarCliente" xml:space="preserve">
+    <value>Enter Customer</value>
+  </data>
+  <data name="btn_ingresarEmpleado" xml:space="preserve">
+    <value>Enter Employee</value>
+  </data>
+  <data name="btn_IngresarObjeto" xml:space="preserve">
+    <value>Enter object</value>
+  </data>
+  <data name="CONFPREV" xml:space="preserve">
+    <value>Select Preview</value>
+  </data>
+  <data name="CONFSEL" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="GB_ActualizarObjeto" xml:space="preserve">
+    <value>Update record.</value>
+  </data>
+  <data name="GB_EliminarEmpleado" xml:space="preserve">
+    <value>Terminate employee.</value>
+  </data>
+  <data name="GB_EliminarObjeto" xml:space="preserve">
+    <value>Delete object.</value>
+  </data>
+  <data name="GB_FiltrarAutos" xml:space="preserve">
+    <value>Filter cars by:</value>
+  </data>
+  <data name="GB_FiltrarClientes" xml:space="preserve">
+    <value>Filter customers by:</value>
+  </data>
+  <data name="GB_FiltrarEmpleado" xml:space="preserve">
+    <value>Filter employees by:</value>
+  </data>
+  <data name="GB_FiltrarObjeto" xml:space="preserve">
+    <value>Filter objects by:</value>
+  </data>
+  <data name="GB_GenerarTrabajo" xml:space="preserve">
+    <value>Create a new job.</value>
+  </data>
+  <data name="GB_IngresoAutos" xml:space="preserve">
+    <value>Enter a new car to the client.</value>
+  </data>
+  <data name="GB_IngresoClientes" xml:space="preserve">
+    <value>Enter a new customer.</value>
+  </data>
+  <data name="GB_IngresoDeDatos" xml:space="preserve">
+    <value>Enter a new employee.</value>
+  </data>
+  <data name="GB_IngresoObjetos" xml:space="preserve">
+    <value>Enter a new object.</value>
+  </data>
+  <data name="GB_TerminarTrabajo" xml:space="preserve">
+    <value>Finish work</value>
+  </data>
+  <data name="lbl_ActualizarCantidad" xml:space="preserve">
+    <value>Update quantity</value>
+  </data>
+  <data name="lbl_ActualizarCostoUnidad" xml:space="preserve">
+    <value>Update cost per unit</value>
+  </data>
+  <data name="lbl_ActualizarIdObjeto" xml:space="preserve">
+    <value>ID of the object to update</value>
+  </data>
+  <data name="lbl_ActualizarNombreObjeto" xml:space="preserve">
+    <value>Update object name</value>
+  </data>
+  <data name="lbl_ApMaterno" xml:space="preserve">
+    <value>Mother's last name</value>
+  </data>
+  <data name="lbl_ApPaterno" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="lbl_AutoDelCliente" xml:space="preserve">
+    <value>Customer car</value>
+  </data>
+  <data name="lbl_AutosVencejoPIN" xml:space="preserve">
+    <value>VencejoPIN</value>
+  </data>
+  <data name="lbl_BienvenidoA" xml:space="preserve">
+    <value>Welcome to</value>
+  </data>
+  <data name="lbl_Cantidad" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="lbl_Correo" xml:space="preserve">
+    <value>Mail</value>
+  </data>
+  <data name="lbl_CostoDelTrabajo" xml:space="preserve">
+    <value>Labor cost</value>
+  </data>
+  <data name="lbl_CostoUnidad" xml:space="preserve">
+    <value>Cost per unit</value>
+  </data>
+  <data name="lbl_DescripcionDelTrabajo" xml:space="preserve">
+    <value>Work description</value>
+  </data>
+  <data name="lbl_Edad" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="lbl_EliminarIdEmpledo" xml:space="preserve">
+    <value>Employee ID</value>
+  </data>
+  <data name="lbl_EliminarIdObjeto" xml:space="preserve">
+    <value>ID of the object to delete</value>
+  </data>
+  <data name="lbl_EliminarNombreObjeto" xml:space="preserve">
+    <value>Name of the object to delete</value>
+  </data>
+  <data name="lbl_EliminarPrimerAp" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="lbl_EliminarPrimerNom" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="lbl_EmpleadoEncargado" xml:space="preserve">
+    <value>Clerk in charge</value>
+  </data>
+  <data name="lbl_FiltrarApPaterno" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="lbl_FiltrarIdObjeto" xml:space="preserve">
+    <value>ID of the object to filter</value>
+  </data>
+  <data name="lbl_FiltrarMatricula" xml:space="preserve">
+    <value>Tuition</value>
+  </data>
+  <data name="lbl_FiltrarModelo" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="lbl_FiltrarNombreObjeto" xml:space="preserve">
+    <value>Name of the object to filter</value>
+  </data>
+  <data name="lbl_FiltrarPrimerAp" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="lbl_FiltrarPrimerNom" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="lbl_FiltrarPuesto" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="lbl_FiltrarssIdEmpleado" xml:space="preserve">
+    <value>Employee ID</value>
+  </data>
+  <data name="lbl_FiltrarVencejoPIN" xml:space="preserve">
+    <value>VencejoPIN</value>
+  </data>
+  <data name="lbl_Idtrabajo" xml:space="preserve">
+    <value>Job ID</value>
+  </data>
+  <data name="lbl_Marca" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="lbl_Matricula" xml:space="preserve">
+    <value>Tuition</value>
+  </data>
+  <data name="lbl_Modelo" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="lbl_NombreObjeto" xml:space="preserve">
+    <value>Object name</value>
+  </data>
+  <data name="lbl_NumeroTelefonico" xml:space="preserve">
+    <value>Phone number</value>
+  </data>
+  <data name="lbl_PrimerAp" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="lbl_PrimerNom" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="lbl_Puesto" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="lbl_SegundoAp" xml:space="preserve">
+    <value>Mother's last name</value>
+  </data>
+  <data name="lbl_SegundoNom" xml:space="preserve">
+    <value>Second name</value>
+  </data>
+  <data name="lbl_Telefono" xml:space="preserve">
+    <value>Phone number</value>
+  </data>
+  <data name="lbl_TituloClientes" xml:space="preserve">
+    <value>Customers</value>
+  </data>
+  <data name="lbl_TituloEmpleados" xml:space="preserve">
+    <value>Employees</value>
+  </data>
+  <data name="lbl_TituloInventarios" xml:space="preserve">
+    <value>Inventories</value>
+  </data>
+  <data name="lbl_TituloTrabajos" xml:space="preserve">
+    <value>Generate Jobs</value>
+  </data>
+  <data name="lbl_usuario" xml:space="preserve">
+    <value>User:</value>
+  </data>
+  <data name="lbl_VencejoPIN" xml:space="preserve">
+    <value>VencejoPIN</value>
+  </data>
+  <data name="MENSAJESALIR" xml:space="preserve">
+    <value>Do you want to go out?</value>
+  </data>
+  <data name="TOOLAYUDA" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="TOOLCERRAR" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="TOOLINFO" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="TOOLINICIO" xml:space="preserve">
+    <value>Home</value>
+  </data>
+</root>

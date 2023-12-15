@@ -1,0 +1,18 @@
+E:\ASAP\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\bin\Debug\Comun.dll
+E:\ASAP\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\bin\Debug\Comun.pdb
+E:\ASAP\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+E:\ASAP\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+E:\ASAP\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.dll
+E:\ASAP\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.pdb
+D:\ASAP\Recuperacion\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\bin\Debug\Comun.dll
+D:\ASAP\Recuperacion\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\bin\Debug\Comun.pdb
+D:\ASAP\Recuperacion\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\ASAP\Recuperacion\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\ASAP\Recuperacion\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.dll
+D:\ASAP\Recuperacion\Login\INTERNACIONAL\PROGRA3_CAJR_1\Comun\obj\Debug\Comun.pdb
+D:\Plantilla base\Login\INTERNACIONAL\SIstemaVencejo\Comun\bin\Debug\Comun.dll
+D:\Plantilla base\Login\INTERNACIONAL\SIstemaVencejo\Comun\bin\Debug\Comun.pdb
+D:\Plantilla base\Login\INTERNACIONAL\SIstemaVencejo\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\Plantilla base\Login\INTERNACIONAL\SIstemaVencejo\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\Plantilla base\Login\INTERNACIONAL\SIstemaVencejo\Comun\obj\Debug\Comun.dll
+D:\Plantilla base\Login\INTERNACIONAL\SIstemaVencejo\Comun\obj\Debug\Comun.pdb
